@@ -8,7 +8,7 @@ public class App {
         int boardWidth = tileSize * columns; //32*16=512px
         System.out.println("prueba de github");
         //Prueba prueba
-        System.out.println("prueba 222 de github");
+        System.out.println("prueba 2 de github para actualizar info");
 
     }
 }
